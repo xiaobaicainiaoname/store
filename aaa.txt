@@ -1,1 +1,4 @@
-��
+{"th":{"td1":"应用-模块","tds":[{"td3":{"td2":{"resourcesid":3,"roleid":0,"relation":"读权限3"}},"td2":{"td2":{"resourcesid":0,"roleid":0,"relation":"角色名称"}},"td4":{"td2":{"resourcesid":4,"roleid":0,"relation":"读权限4"}}}]},
+"tr":{"td1":"权限-用户模块","tds":[{"td3":{"td2":{"resourcesid":3,"roleid":0,"relation":"true"}},"td2":{"td2":{"resourcesid":0,"roleid":2,"relation":"用户角色"}},"td4":{"td2":{"resourcesid":4,"roleid":0,"relation":"true"}}},
+									{"td3":{"td2":{"resourcesid":3,"roleid":0,"relation":"true"}},"td2":{"td2":{"resourcesid":0,"roleid":3,"relation":"用户角色"}},"td4":{"td2":{"resourcesid":4,"roleid":0,"relation":"true"}}},
+									{"td3":{"td2":{"resourcesid":3,"roleid":0,"relation":"true"}},"td2":{"td2":{"resourcesid":0,"roleid":4,"relation":"用户角色"}},"td4":{"td2":{"resourcesid":4,"roleid":0,"relation":"true"}}}]}}
